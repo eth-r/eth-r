@@ -1,17 +1,33 @@
-I'm a protocol architect, software engineer and security auditor with 7 years of experience in the Web3/crypto sector.
+Protocol architect, software engineer and security auditor with 7 years of experience in the crypto/Web3 sector.
 I like learning about practically everything, finding solutions to a problem, and finding problems in a solution.
 
-<!--
-**eth-r/eth-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security auditor at Thesis Defense.
 
-Here are some ideas to get you started:
+Former core contributor to the Keep Network (Threshold/tBTC) and Thesis, engineering secure cross-chain bridges connecting Bitcoin and Ethereum ecosystems,
+creating trustless infrastructure that maintains the core principles of decentralization while enhancing interoperability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public Audit Reports:
+
+| Client	| Project Name	| Date	| Report	| Type      |Language |
+|-----------|---------------|-------|-----------|-----------|---------|
+|[POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](https://github.com/pokt-network/ring-go/blob/master/audits/240704_Thesis_Defense-Pokt_Network_Ring-Go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
+
+## Expertise
+
+Smart contracts
+
+Cryptography
+
+EVM
+
+## Languages
+
+Rust
+
+Solidity
+
+Javascript/Typescript
+
+Golang
+
+Python
