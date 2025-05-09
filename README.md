@@ -1,4 +1,5 @@
-## Hi there 👋
+I'm a protocol architect, software engineer and security auditor with 7 years of experience in the Web3/crypto sector.
+I like learning about practically everything, finding solutions to a problem, and finding problems in a solution.
 
 <!--
 **eth-r/eth-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
